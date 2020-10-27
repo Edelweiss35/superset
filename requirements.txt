@@ -12,7 +12,7 @@ click==6.7
 colorama==0.4.1
 contextlib2==0.6.0
 croniter==0.3.30
-cryptography==2.7
+cryptography==3.2
 defusedxml==0.6.0
 Django==2.2.5
 Flask==1.1.1
