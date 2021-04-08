@@ -14,7 +14,7 @@ contextlib2==0.6.0
 croniter==0.3.30
 cryptography==2.7
 defusedxml==0.6.0
-Django==2.2.5
+Django==2.2.20
 Flask==1.1.1
 Flask-AppBuilder==2.1.13
 Flask-Babel==0.12.2
